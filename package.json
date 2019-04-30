@@ -1,0 +1,26 @@
+{
+  "name": "universal-content-player",
+  "version": "1.0.0",
+  "description": "This library created for rendering or playing content like pdf, video, audio, doc, etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aAmitSengar/Universal-Content-Player.git"
+  },
+  "keywords": [
+    "content-player"
+  ],
+  "author": "amit sengar <amitsengar@yahoo.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/aAmitSengar/Universal-Content-Player/issues"
+  },
+  "homepage": "https://github.com/aAmitSengar/Universal-Content-Player#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}
